@@ -1,0 +1,15 @@
+ 
+
+>>  git init :  The git init command creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository. Most other Git commands are not available outside of an initialized repository, so this is usually the first command you'll run in a new project.
+
+
+
+>>  git commit -m "first commit"  :  The value in creating a custom commit template is that you can use it to remind yourself (or others) of the proper format and style when creating a commit message.
+
+
+>> git remote add origin https://github.com/Manish200/hello-git.git    :  Just link the git with your PC .
+
+
+>>  git push -u origin master :  This command will push the source code from your PC to github repo.
+
+>> new line added
